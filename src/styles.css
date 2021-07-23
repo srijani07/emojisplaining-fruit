@@ -7,3 +7,7 @@
   font-weight: bold;
   margin: 1rem;
 }
+li {
+  display: inline;
+  margin: 1rem 1rem;
+}
