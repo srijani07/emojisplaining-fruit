@@ -1,2 +1,3 @@
 # emojisplaining-fruit
-Created with CodeSandbox
+A fruit emoji interpreter created using ReactJS
+
